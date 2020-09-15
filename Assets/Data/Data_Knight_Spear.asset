@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386d0ec4d7dd7644e97a86de6a93ac7e, type: 3}
+  m_Name: Data_Knight_Spear
+  m_EditorClassIdentifier: 
+  HP: 700
+  HP5: 5
+  MP: 300
+  MP5: 5
+  AD: 80
+  ASPD: 3.6
+  AR: 35
+  MSPD: 6
+  isKnockable: 1

@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e64fbb44f6809f409e6981fe0c98538, type: 3}
+  m_Name: Skill_Knight_Spear
+  m_EditorClassIdentifier: 
+  skills:
+  - animationName: {fileID: 7400000, guid: ff76b8e7738b3f54a80bc11eda79a428, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: -0.5, y: 0}
+    knockForce: {x: 5, y: 0}
+    damageInterval: 0
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 0.5
+    soundClip: {fileID: 8300000, guid: f049cf3151b1e964a98bd50ec52aa610, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 3091026688681427938, guid: 53ba639be4c086347b5a801c1a57dd37,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    damage: 2
+    waitTime: 8
+    walkWhileAttacking: 0
+    icon: {fileID: 21300012, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 1
+    currentTime: 0
+  - animationName: {fileID: 7400000, guid: cfb1725dbbbff3941a284bd4b11e4bf1, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: -0.5, y: 0}
+    knockForce: {x: 1, y: 0}
+    damageInterval: 0
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 0.5
+    soundClip: {fileID: 8300000, guid: cf27e6602be3fd9418259633899c85c4, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2113804485152771033, guid: 2c5404730120bbe448f7989a7b453ee3,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    damage: 3
+    waitTime: 15
+    walkWhileAttacking: 0
+    icon: {fileID: 21300010, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 0
+    currentTime: 9.932003
+  - animationName: {fileID: 7400000, guid: ff76b8e7738b3f54a80bc11eda79a428, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: -0.5, y: 0}
+    knockForce: {x: 1, y: 0}
+    damageInterval: 0.3
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 0.5
+    soundClip: {fileID: 8300000, guid: f049cf3151b1e964a98bd50ec52aa610, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 3062187998378449574, guid: 6aac4194e3ecfaa418bae6a4c71bfcd6,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+    damage: 0.6
+    waitTime: 40
+    walkWhileAttacking: 0
+    icon: {fileID: 21300008, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 1
+    currentTime: 0

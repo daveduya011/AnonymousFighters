@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Mage
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Weapons
+    m_Hash: -1649180035
+    m_CategoryList:
+    - m_Name: Wood Wand
+      m_Hash: 2026217766
+      m_Sprite: {fileID: 21300018, guid: 93349870e3ad59647a126be97fd47091, type: 3}
+    - m_Name: Magician's Wand
+      m_Hash: -1271843674
+      m_Sprite: {fileID: -1859244452297554888, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Bronze Magician's Wand
+      m_Hash: 70224624
+      m_Sprite: {fileID: 6430623046161703275, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Purple Magician's Wand
+      m_Hash: 454619104
+      m_Sprite: {fileID: 833966194515166493, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Red Power Wand
+      m_Hash: -983956922
+      m_Sprite: {fileID: 3315056422843035400, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Green Power Wand
+      m_Hash: -1590996109
+      m_Sprite: {fileID: -248869223729759670, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Blue Power Wand
+      m_Hash: -291485429
+      m_Sprite: {fileID: 6566068918077786024, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Fairy Stick
+      m_Hash: 1139723801
+      m_Sprite: {fileID: 4583610003489934293, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Rainbow Fairy Stick
+      m_Hash: 886169486
+      m_Sprite: {fileID: 7312096320979337598, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Golden Fairy Stick
+      m_Hash: 332217594
+      m_Sprite: {fileID: 7971192506324766332, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}

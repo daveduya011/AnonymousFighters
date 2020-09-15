@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 386d0ec4d7dd7644e97a86de6a93ac7e, type: 3}
+  m_Name: Data_Owl_Boss
+  m_EditorClassIdentifier: 
+  HP: 1000
+  MP5: 20
+  AD: 40
+  ASPD: 0.5
+  AR: 20
+  MSPD: 6
+  isKnockable: 0

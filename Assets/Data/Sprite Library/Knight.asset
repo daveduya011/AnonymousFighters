@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Weapons
+    m_Hash: -1649180035
+    m_CategoryList:
+    - m_Name: Silver Sword
+      m_Hash: 714984818
+      m_Sprite: {fileID: 21300036, guid: 14d753849f35632439fa5e89e8766ee8, type: 3}
+    - m_Name: Medieval Sword
+      m_Hash: 1248035093
+      m_Sprite: {fileID: 2833550792184725004, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Purple Medieval Sword
+      m_Hash: 1772325820
+      m_Sprite: {fileID: 404926854484944764, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Gold Medieval Sword
+      m_Hash: -736429529
+      m_Sprite: {fileID: 3298264755467469791, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Katana
+      m_Hash: 478971082
+      m_Sprite: {fileID: 2974352079379091462, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Oceanic Katana
+      m_Hash: 1467835937
+      m_Sprite: {fileID: 2175982538163861225, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Golden Katana
+      m_Hash: -1494685590
+      m_Sprite: {fileID: -1964449786174350222, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Blue Light Saber
+      m_Hash: -481055640
+      m_Sprite: {fileID: -4373989092939622741, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Red Light Saber
+      m_Hash: -350917874
+      m_Sprite: {fileID: -3207294911526416589, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Rainbow Saber
+      m_Hash: 1965309382
+      m_Sprite: {fileID: -7915508412408206189, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}

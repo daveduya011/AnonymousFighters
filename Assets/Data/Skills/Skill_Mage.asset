@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e64fbb44f6809f409e6981fe0c98538, type: 3}
+  m_Name: Skill_Mage
+  m_EditorClassIdentifier: 
+  skills:
+  - animationName: {fileID: 7400000, guid: cafd4f0d4e8b16e409a99dce75906b68, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: 0, y: 0}
+    knockForce: {x: 5, y: 0}
+    damageInterval: 0
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 0.75
+    soundClip: {fileID: 8300000, guid: 8e7aeaff2388caf48bd46a435b914ed7, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 2741580171905844420, guid: 3e37c46722cfa7b4d90d769b8cc5e47d,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: SkillEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    damage: 5
+    waitTime: 3.5
+    walkWhileAttacking: 0
+    icon: {fileID: 21300004, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 1
+    currentTime: -0.015490683
+  - animationName: {fileID: 7400000, guid: fcdfe9e5cad14e64fa385ac65e3750b4, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: 0, y: 0}
+    knockForce: {x: 1, y: 0}
+    damageInterval: 0.3
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 2
+    soundClip: {fileID: 8300000, guid: 8d3b748822765cf4496316f3311b15d2, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 1568236030096601501, guid: dff5fc6eece4dfa4ba50c03800f70c62,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: SkillEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    damage: 0.8
+    waitTime: 8
+    walkWhileAttacking: 0
+    icon: {fileID: 21300002, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 1
+    currentTime: -0.012913067
+  - animationName: {fileID: 7400000, guid: 6817ae607504c2a45922b82a0fdf2c86, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: 0, y: 0}
+    knockForce: {x: 1, y: 0}
+    damageInterval: 0.3
+    startOffset: 0
+    lengthInSeconds: 0
+    stunTime: 1
+    soundClip: {fileID: 8300000, guid: baf2d0ebb878f7049a19d86dceb207dd, type: 3}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 249795517659523593, guid: a8f8ec8c3488eb84f80a82e6782b23a6,
+            type: 3}
+          m_MethodName: ExecuteSkillEffect
+          m_Mode: 0
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+      m_TypeName: SkillEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+    damage: 1.15
+    waitTime: 15
+    walkWhileAttacking: 0
+    icon: {fileID: 21300000, guid: 816dd1f205c21a8499c6595a00d1fcc3, type: 3}
+    isOn: 0
+    currentTime: 2.5537925

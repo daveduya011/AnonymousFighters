@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: a7b2d8899fe74de42ba492192ab8254d
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: bgMenu_GO/bgMenu_GO
+    100002: bgMenu_GO/bgMenu_GO/clouds
+    100004: bgMenu_GO/bgMenu_GO/Group 3
+    100006: bgMenu_GO/bgMenu_GO/Hue/Saturation 1
+    100008: bgMenu_GO/bgMenu_GO/platform
+    100012: bgMenu_GO/bgMenu_GO/Gradient Fill 1
+    100014: bgMenu_GO/bgMenu_GO/Layer 1
+    400000: bgMenu_GO/bgMenu_GO/Transform
+    400002: bgMenu_GO/bgMenu_GO/clouds/Transform
+    400004: bgMenu_GO/bgMenu_GO/Group 3/Transform
+    400006: bgMenu_GO/bgMenu_GO/Hue/Saturation 1/Transform
+    400008: bgMenu_GO/bgMenu_GO/platform/Transform
+    400012: bgMenu_GO/bgMenu_GO/Gradient Fill 1/Transform
+    400014: bgMenu_GO/bgMenu_GO/Layer 1/Transform
+    2800000: bgMenu
+    21200000: bgMenu_GO/bgMenu_GO/clouds/SpriteRenderer
+    21200002: bgMenu_GO/bgMenu_GO/Group 3/SpriteRenderer
+    21200004: bgMenu_GO/bgMenu_GO/Hue/Saturation 1/SpriteRenderer
+    21200006: bgMenu_GO/bgMenu_GO/platform/SpriteRenderer
+    21200010: bgMenu_GO/bgMenu_GO/Gradient Fill 1/SpriteRenderer
+    21200012: bgMenu_GO/bgMenu_GO/Layer 1/SpriteRenderer
+    21300000: 1f5b64de22e4dec429e36f8b672bb9e7
+    21300002: ecca38e9dad99094dbdffd41b6b7dd59
+    21300004: fb8eefec9614b6449a1b27c0e239365e
+    21300006: e35b4862852bab949bbc20a01001e51a
+    21300010: 9baab7c04fba5c24ea1a381bf71658ba
+    21300012: a624569c437634a48a505dd625e9f399
+    100100000: bgMenu_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: platform
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2917
+      width: 2000
+      height: 108
+    spriteID: 1f5b64de22e4dec429e36f8b672bb9e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2917}
+  - name: Hue/Saturation 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2012
+      y: 2917
+      width: 0
+      height: 0
+    spriteID: ecca38e9dad99094dbdffd41b6b7dd59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 12, y: 2117}
+  - name: Group 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2402
+      width: 2000
+      height: 507
+    spriteID: fb8eefec9614b6449a1b27c0e239365e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2402}
+  - name: clouds
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1620
+      width: 1934
+      height: 774
+    spriteID: e35b4862852bab949bbc20a01001e51a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -33, y: 1594}
+  - name: Gradient Fill 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2000
+      height: 800
+    spriteID: 9baab7c04fba5c24ea1a381bf71658ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 812
+      width: 2000
+      height: 800
+    spriteID: a624569c437634a48a505dd625e9f399
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 812}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 2000, y: 800}
+  textureActualWidth: 2048
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: platform
+    spriteName: platform
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f5b64de22e4dec429e36f8b672bb9e7
+    layerID: 71
+    mosaicPosition: {x: 4, y: 2917}
+  - name: Hue/Saturation 1
+    spriteName: Hue/Saturation 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ecca38e9dad99094dbdffd41b6b7dd59
+    layerID: 82
+    mosaicPosition: {x: 2012, y: 2917}
+  - name: Group 3
+    spriteName: Group 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fb8eefec9614b6449a1b27c0e239365e
+    layerID: 77
+    mosaicPosition: {x: 4, y: 2402}
+  - name: clouds
+    spriteName: clouds
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e35b4862852bab949bbc20a01001e51a
+    layerID: 76
+    mosaicPosition: {x: 4, y: 1620}
+  - name: Gradient Fill 1
+    spriteName: Gradient Fill 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9baab7c04fba5c24ea1a381bf71658ba
+    layerID: 90
+    mosaicPosition: {x: 4, y: 4}
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a624569c437634a48a505dd625e9f399
+    layerID: 89
+    mosaicPosition: {x: 4, y: 812}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: bgMenu
+  prefabAssetName: bgMenu_GO

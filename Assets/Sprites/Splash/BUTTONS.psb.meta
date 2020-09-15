@@ -1,0 +1,550 @@
+fileFormatVersion: 2
+guid: 816dd1f205c21a8499c6595a00d1fcc3
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: BUTTONS_GO/BUTTONS_GO
+    100002: BUTTONS_GO/BUTTONS_GO/1stSkill
+    100004: BUTTONS_GO/BUTTONS_GO/1stSkill copy
+    100006: BUTTONS_GO/BUTTONS_GO/1stSkill copy_1
+    100008: BUTTONS_GO/BUTTONS_GO/2ndSkill copy
+    100010: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2
+    100012: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2_1
+    100014: BUTTONS_GO/BUTTONS_GO/ATTACK
+    100016: BUTTONS_GO/BUTTONS_GO/MAGIC
+    100018: BUTTONS_GO/BUTTONS_GO/SPEAR
+    100020: BUTTONS_GO/BUTTONS_GO/SS
+    100022: BUTTONS_GO/BUTTONS_GO/SS copy
+    100024: BUTTONS_GO/BUTTONS_GO/SS copy_1
+    100026: BUTTONS_GO/BUTTONS_GO/sword
+    400000: BUTTONS_GO/BUTTONS_GO/Transform
+    400002: BUTTONS_GO/BUTTONS_GO/1stSkill/Transform
+    400004: BUTTONS_GO/BUTTONS_GO/1stSkill copy/Transform
+    400006: BUTTONS_GO/BUTTONS_GO/1stSkill copy_1/Transform
+    400008: BUTTONS_GO/BUTTONS_GO/2ndSkill copy/Transform
+    400010: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2/Transform
+    400012: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2_1/Transform
+    400014: BUTTONS_GO/BUTTONS_GO/ATTACK/Transform
+    400016: BUTTONS_GO/BUTTONS_GO/MAGIC/Transform
+    400018: BUTTONS_GO/BUTTONS_GO/SPEAR/Transform
+    400020: BUTTONS_GO/BUTTONS_GO/SS/Transform
+    400022: BUTTONS_GO/BUTTONS_GO/SS copy/Transform
+    400024: BUTTONS_GO/BUTTONS_GO/SS copy_1/Transform
+    400026: BUTTONS_GO/BUTTONS_GO/sword/Transform
+    2800000: BUTTONS
+    21200000: BUTTONS_GO/BUTTONS_GO/1stSkill/SpriteRenderer
+    21200002: BUTTONS_GO/BUTTONS_GO/1stSkill copy/SpriteRenderer
+    21200004: BUTTONS_GO/BUTTONS_GO/1stSkill copy_1/SpriteRenderer
+    21200006: BUTTONS_GO/BUTTONS_GO/2ndSkill copy/SpriteRenderer
+    21200008: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2/SpriteRenderer
+    21200010: BUTTONS_GO/BUTTONS_GO/2ndSkill copy 2_1/SpriteRenderer
+    21200012: BUTTONS_GO/BUTTONS_GO/ATTACK/SpriteRenderer
+    21200014: BUTTONS_GO/BUTTONS_GO/MAGIC/SpriteRenderer
+    21200016: BUTTONS_GO/BUTTONS_GO/SPEAR/SpriteRenderer
+    21200018: BUTTONS_GO/BUTTONS_GO/SS/SpriteRenderer
+    21200020: BUTTONS_GO/BUTTONS_GO/SS copy/SpriteRenderer
+    21200022: BUTTONS_GO/BUTTONS_GO/SS copy_1/SpriteRenderer
+    21200024: BUTTONS_GO/BUTTONS_GO/sword/SpriteRenderer
+    21300000: b8d8be96cc3cc2c47a2387c8e145d790
+    21300002: 17eb29028c23dca458b89f544045316f
+    21300004: 144f250c9edbc6b44ad8ce52ad18a1c7
+    21300006: ecedd4a8311413d4783e1efb2de481db
+    21300008: ad79520190539ac488f57d4c251eba57
+    21300010: 2b5f78482af63d5459bd958a1cf85425
+    21300012: 22f1721ddde74934f8a048eae1159349
+    21300014: 971c09fc0247d8a4488f051df53c7f01
+    21300016: 701b7539fb93c2244adfdb4e46818499
+    21300018: d2a59acca1e2cd1499276d9dfbb8180b
+    21300020: f5e008d0698083145a05e539364d29a9
+    21300022: 6c2e3ae61c1d8e342a7152225747875b
+    21300024: 11d59fe394440ed4db5d83747cd1b5e7
+    100100000: BUTTONS_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: SS copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 4
+      width: 166
+      height: 166
+    spriteID: b8d8be96cc3cc2c47a2387c8e145d790
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1236, y: -462}
+  - name: 2ndSkill copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 178
+      width: 166
+      height: 166
+    spriteID: 17eb29028c23dca458b89f544045316f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1010, y: -152}
+  - name: 1stSkill copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 352
+      width: 166
+      height: 166
+    spriteID: 144f250c9edbc6b44ad8ce52ad18a1c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -916, y: 283}
+  - name: MAGIC
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 355
+      width: 210
+      height: 210
+    spriteID: ecedd4a8311413d4783e1efb2de481db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1574, y: 246}
+  - name: SS copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 526
+      width: 166
+      height: 166
+    spriteID: ad79520190539ac488f57d4c251eba57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1236, y: 60}
+  - name: 2ndSkill copy 2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 355
+      y: 700
+      width: 166
+      height: 166
+    spriteID: 2b5f78482af63d5459bd958a1cf85425
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1010, y: 370}
+  - name: 1stSkill copy_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 529
+      y: 4
+      width: 166
+      height: 166
+    spriteID: 22f1721ddde74934f8a048eae1159349
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -742, y: -65}
+  - name: SPEAR
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 573
+      width: 210
+      height: 210
+    spriteID: 971c09fc0247d8a4488f051df53c7f01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1574, y: 464}
+  - name: SS
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 529
+      y: 178
+      width: 166
+      height: 166
+    spriteID: 701b7539fb93c2244adfdb4e46818499
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1062, y: -288}
+  - name: 2ndSkill copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 529
+      y: 352
+      width: 166
+      height: 166
+    spriteID: d2a59acca1e2cd1499276d9dfbb8180b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -836, y: 22}
+  - name: 1stSkill
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 529
+      y: 526
+      width: 166
+      height: 166
+    spriteID: f5e008d0698083145a05e539364d29a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -742, y: 457}
+  - name: sword
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 791
+      width: 210
+      height: 210
+    spriteID: 6c2e3ae61c1d8e342a7152225747875b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1574, y: 682}
+  - name: ATTACK
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 343
+      height: 343
+    spriteID: 11d59fe394440ed4db5d83747cd1b5e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1508, y: -39}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1920, y: 1080}
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: MAGE
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 131
+    mosaicPosition: {x: 0, y: 0}
+  - name: SS copy
+    spriteName: SS copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b8d8be96cc3cc2c47a2387c8e145d790
+    layerID: 132
+    mosaicPosition: {x: 355, y: 4}
+  - name: 2ndSkill copy 2
+    spriteName: 2ndSkill copy 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 17eb29028c23dca458b89f544045316f
+    layerID: 133
+    mosaicPosition: {x: 355, y: 178}
+  - name: 1stSkill copy
+    spriteName: 1stSkill copy
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 144f250c9edbc6b44ad8ce52ad18a1c7
+    layerID: 134
+    mosaicPosition: {x: 355, y: 352}
+  - name: MAGIC
+    spriteName: MAGIC
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ecedd4a8311413d4783e1efb2de481db
+    layerID: 135
+    mosaicPosition: {x: 4, y: 355}
+  - name: SPEARKNIGHT
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 103
+    mosaicPosition: {x: 0, y: 0}
+  - name: SS copy
+    spriteName: SS copy_1
+    isGroup: 0
+    parentIndex: 5
+    spriteID: ad79520190539ac488f57d4c251eba57
+    layerID: 136
+    mosaicPosition: {x: 355, y: 526}
+  - name: 2ndSkill copy 2
+    spriteName: 2ndSkill copy 2_1
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 2b5f78482af63d5459bd958a1cf85425
+    layerID: 137
+    mosaicPosition: {x: 355, y: 700}
+  - name: 1stSkill copy
+    spriteName: 1stSkill copy_1
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 22f1721ddde74934f8a048eae1159349
+    layerID: 138
+    mosaicPosition: {x: 529, y: 4}
+  - name: SPEAR
+    spriteName: SPEAR
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 971c09fc0247d8a4488f051df53c7f01
+    layerID: 139
+    mosaicPosition: {x: 4, y: 573}
+  - name: KNIGHT
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 62
+    mosaicPosition: {x: 0, y: 0}
+  - name: SS
+    spriteName: SS
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 701b7539fb93c2244adfdb4e46818499
+    layerID: 140
+    mosaicPosition: {x: 529, y: 178}
+  - name: 2ndSkill copy
+    spriteName: 2ndSkill copy
+    isGroup: 0
+    parentIndex: 10
+    spriteID: d2a59acca1e2cd1499276d9dfbb8180b
+    layerID: 141
+    mosaicPosition: {x: 529, y: 352}
+  - name: 1stSkill
+    spriteName: 1stSkill
+    isGroup: 0
+    parentIndex: 10
+    spriteID: f5e008d0698083145a05e539364d29a9
+    layerID: 142
+    mosaicPosition: {x: 529, y: 526}
+  - name: sword
+    spriteName: sword
+    isGroup: 0
+    parentIndex: 10
+    spriteID: 6c2e3ae61c1d8e342a7152225747875b
+    layerID: 143
+    mosaicPosition: {x: 4, y: 791}
+  - name: ATTACK
+    spriteName: ATTACK
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 11d59fe394440ed4db5d83747cd1b5e7
+    layerID: 144
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: BUTTONS
+  prefabAssetName: BUTTONS_GO

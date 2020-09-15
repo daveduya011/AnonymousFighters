@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Civilian
+  - LevelController
+  - Enemy
+  - Joystick
+  - MainUICanvas
+  - ReviveInfoView
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Mobs
+  - Pickables
+  - Boundaries
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ' Background'
+    uniqueID: 1993212279
+    locked: 0
+  - name: Foreground1
+    uniqueID: 608657423
+    locked: 0
+  - name: Foreground2
+    uniqueID: 2390573531
+    locked: 0
+  - name: Foreground3
+    uniqueID: 135210245
+    locked: 0
+  - name: Characters
+    uniqueID: 3513244163
+    locked: 0
+  - name: Effects
+    uniqueID: 882868343
+    locked: 0

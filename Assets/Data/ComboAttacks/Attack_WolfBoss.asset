@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d61c6367473119e4391021e7543f3661, type: 3}
+  m_Name: Attack_WolfBoss
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  attacks:
+  - animationName: {fileID: 7400000, guid: 1db372356704abd4fa12191f88000e50, type: 2}
+    isLauncherAttack: 0
+    attackStep: {x: 0, y: 0}
+    knockForce: {x: 0, y: 0}
+    damageInterval: 0
+    startOffset: 0.3
+    lengthInSeconds: 0
+    stunTime: 0.3
+    soundClip: {fileID: 0}
+    soundInterval: 0
+    onCall:
+      m_PersistentCalls:
+        m_Calls: []
+      m_TypeName: SkillEvent, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+  m_Name: Spearman
+  m_EditorClassIdentifier: 
+  m_Labels:
+  - m_Name: Weapons
+    m_Hash: -1649180035
+    m_CategoryList:
+    - m_Name: Cross Spear
+      m_Hash: 902159003
+      m_Sprite: {fileID: 21300040, guid: f8a9396371ba7fa4eaf799d6a681380d, type: 3}
+    - m_Name: Ancient Spear
+      m_Hash: 514572271
+      m_Sprite: {fileID: 5308153358359338444, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Neon Spear
+      m_Hash: 949898669
+      m_Sprite: {fileID: 9087508857813208351, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Purple Spear
+      m_Hash: 199192984
+      m_Sprite: {fileID: -6951118794127269496, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Stone Concave Spear
+      m_Hash: -265914750
+      m_Sprite: {fileID: 2332760176350046131, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Diablo Concave Spear
+      m_Hash: 779485149
+      m_Sprite: {fileID: -5818917604855908455, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Golden Concave Spear
+      m_Hash: 740234449
+      m_Sprite: {fileID: 3719356291762062108, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Aqua Trident
+      m_Hash: 514713455
+      m_Sprite: {fileID: 7986566821640455230, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Dracula Trident
+      m_Hash: -1256139763
+      m_Sprite: {fileID: -2495623834364863191, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}
+    - m_Name: Golden Trident
+      m_Hash: 404551227
+      m_Sprite: {fileID: -4790549930267568937, guid: e2f0473d0c164ab4d996ac3b540300b0,
+        type: 3}

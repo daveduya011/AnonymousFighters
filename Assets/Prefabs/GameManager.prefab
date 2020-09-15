@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7715931349428470190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7715931349428470188}
+  - component: {fileID: 7715931349428470189}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7715931349428470188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715931349428470190}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 202.15001, y: 149.3425, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7715931349428470189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7715931349428470190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9a05747c54d6f544a3cf05af2fd3611, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterObject: {fileID: 2324072256545820636, guid: 0216eda54890175489ff83913147b66c,
+    type: 3}
+  scoreMultiplier: 100
+  reviveCost: 2
+  coinPrefab: {fileID: 18952717940613821, guid: 9414a1d94fae46345b25f4fae6e5f9db,
+    type: 3}
+  gemPrefab: {fileID: 76197481178840739, guid: cbbf671e789b5c4438cb27be09fbbf4b, type: 3}
+  pickableHealthPrefab: {fileID: 8691289094039968828, guid: 37ab92c482ebe674eb78d2817ffa6d1a,
+    type: 3}
+  enemyDamageText: {fileID: 3806151883012872777, guid: a05f63e8f6e1fed4c9225394c3bcfd98,
+    type: 3}
+  playerDamageText: {fileID: 3806151883012872777, guid: cfde80bb08723d643a977b6d948c3cba,
+    type: 3}
+  healthIncreaseText: {fileID: 3806151883012872777, guid: 1ff6f7bb256b2e74c834d1838c04ccf9,
+    type: 3}
+  textPrompt: {fileID: 4749910487556346971, guid: 80ed7eec7b98361479b8d12cc94da798,
+    type: 3}
+  reviveInfoView: {fileID: 158057331542922945, guid: e833a0dbc77e0f543b6a12cebd307c6b,
+    type: 3}
+  highScores: 
+  highScoreNames: []
+  scoreIndex: 0
+  isNewHighScore: 0
+  lowQualityAsset: {fileID: 11400000, guid: d5e60befe6c7da84598e42e7d80daefa, type: 2}
+  midQualityAsset: {fileID: 11400000, guid: 2060917d178d0674db42be6526547b49, type: 2}
+  highQualityAsset: {fileID: 11400000, guid: 714f16d07f4ed9d47a52add989a4e4bc, type: 2}
+  levelsFinished: 0
+  score: 0
+  numOfEnemies: 0
+  highScore: 0
+  coins: 0
+  gems: 0
+  tempScore: 0
+  tempCoins: 0
+  tempGems: 0
+  difficulty: 0
